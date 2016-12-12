@@ -1,5 +1,9 @@
 #!/usr/bin/python
 
+#
+# Code based on https://gist.github.com/mr-pj/75297864abef5c8f2d5c134be2656023
+#
+
 from pydhcplib.dhcp_network import *
 import requests
 from datetime import timedelta, datetime
